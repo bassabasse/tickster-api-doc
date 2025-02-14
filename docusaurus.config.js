@@ -148,6 +148,7 @@ const config = {
     }),
 };
 
+
 module.exports = {
   
   title: 'Tickster API Documentation',
@@ -155,6 +156,8 @@ module.exports = {
   baseUrl: '/tickster-api-doc/',
   organizationName: 'bassabasse',
   projectName: 'tickster-api-doc',
+  trailingSlash: true
+
 
 };
 
